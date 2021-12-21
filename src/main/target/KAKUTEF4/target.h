@@ -97,8 +97,8 @@
 #define USE_UART_INVERTER
 
 #define USE_UART1
-#define UART1_RX_PIN            PA10
-#define UART1_TX_PIN            PA9
+#define UART1_RX_PIN            PB7
+#define UART1_TX_PIN            PB6
 
 #define USE_UART3
 #define UART3_RX_PIN            PB11
